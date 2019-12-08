@@ -1,3 +1,3 @@
 # C-programming-projects
 
-Small (or bigger) programs written in C to maintain my written fluency
+Small (or bigger) programs written in C/C++ to maintain my written fluency
